@@ -1,8 +1,10 @@
 {
   "handoff_id": "HANDOFF-20261014-005",
-  "from": "Dot",
-  "to": "Muse",
-  "timestamp": "2026-10-14T15:42:58.339149+00:00",
+  "from": "Muse",
+  "to": "Dot",
+  "timestamp": "2026-10-15T20:13:02.085343+07:00",
   "handoff_path": "handoff/HANDOFF-20261014-005.md",
-  "checksum": "10f37ac654009213291af5f445e1375d10f7e017047ac91884356aafe24ed002"
+  "handoff_commit": "ca979656b317135aa70c91309757e3e299cefeeb",
+  "checksum": "76bcd06b2ef9b51f2bcb967ce1bb7a83bee99b22061f0445f48dda2d3eb362ec",
+  "status": "done"
 }
